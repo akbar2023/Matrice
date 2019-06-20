@@ -1,0 +1,17 @@
+*{transition: 1.2s;background: rgb(245, 235, 225)}
+
+
+table{margin: 50px auto;}
+
+td{max-width: 100px;margin: 500px;}
+
+.fillGreen{fill: #60f79f;} /* couleurs des cercles par défaut */
+.fillOrange{fill: #f58181;} /* couleur du carré 1 */
+.fillBlue{fill:#9090f8;} /* couleur du carré 2 */
+.fillSky{fill:#47c2f3;} /* couleur du carré 3 */
+.fillRuby{fill:#CC342D;} /* couleur du carré 4 */
+.fillBerry{fill:#e17ffa;} /* couleur du carré 5 */
+
+/* rect{
+    transform: rotate(45deg);
+} */
